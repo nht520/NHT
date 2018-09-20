@@ -1,0 +1,66 @@
+[
+  {
+    "icon":"fas fa-angry",
+    "text":"惹我生气了",
+    "path":"/Sideshow",
+    "yanse":[{
+      "color":"#fab132"
+    }]
+  },
+  {
+    "icon":"fab fa-affiliatetheme",
+    "text":"唯品会了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#ff3353"
+    }
+  },
+  {
+    "icon":"fas fa-apple-alt",
+    "text":"找折扣了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#ff41a2"
+    }
+  },
+  {
+    "icon":"fas fa-atom",
+    "text":"挑礼物了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#1dbf0c"
+    }
+  },
+  {
+    "icon":"fas fa-burn",
+    "text":"医药健康了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#32b0fa"
+    }
+  },
+  {
+    "icon":"fas fa-cannabis",
+    "text":"秋天到来了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#7237fe"
+    }
+  },
+  {
+    "icon":"fab fa-d-and-d",
+    "text":"龙的传人了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#06e0e6"
+    }
+  },
+  {
+    "icon":"fab fa-drupal",
+    "text":"凹凸曼了",
+    "path":"/Sideshow",
+    "yanse":{
+      "color":"#1e4dfe"
+    }
+  }
+]
